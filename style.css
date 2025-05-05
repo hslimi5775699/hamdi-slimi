@@ -213,29 +213,29 @@ nav .navlinks li a{
     }
 }
 
-  #contact p {
+  .contact p {
     margin-bottom: 20px;
     color: #007ced;
     font-size: 1rem;
   }
 
-  #contact ul {
+  .contact ul {
     list-style: none;
     padding: 0;
   }
 
-  #contact li {
+  .contact li {
     margin-bottom: 10px;
     font-size: 12px;
   }
 
-  #contact a {
+  .contact a {
     color: #e5e5e5;
     text-decoration: none;
     transition: color 0.3s ease;
   }
 
-  #contact a:hover {
+  .contact a:hover {
     color: #e5e5e5;
   }
 
