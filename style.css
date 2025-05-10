@@ -118,10 +118,10 @@ nav .navlinks li a{
 }
 .hero-text h1{
     color: #007ced;
-    font-size: 3rem;
+    font-size: 2rem;
 }
 .hero-text p{
-    color:#e5e5e5;
+    color:#ffffff;
 
 }
 .btn-group{
@@ -214,45 +214,32 @@ nav .navlinks li a{
 }
 
 #contact {
-    background-color: #f9f9f9;
+    background-color: #222;
     padding: 2rem;
     border-radius: 12px;
     max-width: 600px;
-    margin: 2rem auto;
+    margin: 24rem auto;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
     font-family: Arial, sans-serif;
   }
-  
-  #contact h2 {
-    font-size: 1.5rem;
-    margin-bottom: 1rem;
-    color: #333;
-  }
-  
-  #contact p {
-    font-size: 1rem;
-    margin-bottom: 1rem;
-    color: #555;
-  }
-  
-  #contact ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-  }
-  
-  #contact li {
-    margin-bottom: 0.75rem;
-    font-size: 1rem;
-    color: #222;
+   
+  #contact {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background-color: #222;
+    padding: 1rem;
+    border-radius: 10px;
+    color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    max-width: 200px;
   }
   
   #contact a {
-    color: #007BFF;
+    color: hsl(57, 8%, 45%);
     text-decoration: none;
   }
   
   #contact a:hover {
     text-decoration: underline;
   }
-
