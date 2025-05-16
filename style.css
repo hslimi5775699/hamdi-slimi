@@ -12,7 +12,7 @@ body{
     width:100%;
     height: 100%;
     min-height: 100vh;
-    background: #222;
+    background: #9b7123;
 }
 .wrapper{
     width:1280px;
@@ -35,7 +35,7 @@ header{
 .logo i{
     height: 45px;
     width:45px;
-    background-color: #007ced;
+    background-color: #080808;
     border-radius: 50%;
     color:#fff;
     font-weight: 700;
@@ -49,7 +49,7 @@ header{
 .logo .logo-text{
     font-size: 24px;
     font-weight: 500;
-    color:#fff;
+    color:#080808;
 }
 nav .togglebtn{
     width: 35px;
@@ -108,16 +108,16 @@ nav .navlinks li a{
     display: flex;
     flex-direction: column;
 }
-.hero-text h5{
+.hero-text h2{
     color:#e5e5e5;
     font-size: 14px;
 }
-.hero-text h5 span{
-    color:#007ced;
+.hero-text h2 span{
+    color:#171718;
     font-size: 16px;
 }
 .hero-text h1{
-    color: #007ced;
+    color: #050505;
     font-size: 2rem;
 }
 .hero-text p{
@@ -148,7 +148,7 @@ nav .navlinks li a{
     transition: 0.5s;
 }
 .hero-text .social i:hover{
-    color:#007ced;
+    color:#170bb1;
     transform: rotate(360deg);
 }
 /* Respnosiv design & displaying navbar for small screen */
@@ -213,33 +213,12 @@ nav .navlinks li a{
     }
 }
 
-#contact {
-    background-color: #222;
-    padding: 2rem;
-    border-radius: 12px;
-    max-width: 600px;
-    margin: 24rem auto;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-    font-family: Arial, sans-serif;
-  }
-   
-  #contact {
+.contact-info {
     position: fixed;
-    bottom: 20px;
+    bottom: 420px;
     right: 20px;
-    background-color: #222;
-    padding: 1rem;
-    border-radius: 10px;
-    color: #696565;
-    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
-    max-width: 200px;
-  }
-  
-  #contact a {
-    color: hsl(57, 8%, 45%);
-    text-decoration: none;
-  }
-  
-  #contact a:hover {
-    text-decoration: underline;
-  }
+    padding: 10px;
+    border-radius: 8px;
+    z-index: 1000; /* Ensures it's on top */
+}
+
