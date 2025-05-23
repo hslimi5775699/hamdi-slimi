@@ -33,7 +33,7 @@ body{
 }
 
 
-}
+
 .wrapper{
     width:1280px;
     max-width: 95%;
@@ -232,15 +232,21 @@ nav .navlinks li a{
         padding:40px 0px;
     }
 }
-
-.contact-info {
-    position: fixed;
+<div class="page-container" style="position: relative;">
+  .contact-info {
+    position: relative;
     bottom: 420px;
     right: 20px;
     padding: 10px;
     border-radius: 8px;
     z-index: 1000; /* Ensures it's on top */
 }
+
+  <div class="contact-info">
+    Contact us!
+  </div>
+</div>
+
 
 .hero-text {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
