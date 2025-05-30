@@ -232,21 +232,24 @@ nav .navlinks li a{
         padding:40px 0px;
     }
 }
-<div class="page-container" style="position: relative;">
-  .contact-info {
-    position: relative;
-    bottom: 420px;
+.contact-info {
+    color: #6a6d70;
+    position: fixed;
+    bottom: 20px;
     right: 20px;
     padding: 10px;
+    background-color: #222;
     border-radius: 8px;
-    z-index: 1000; /* Ensures it's on top */
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    z-index: 1000;
+}
+.contact-info a:hover {
+    color: #979ba0; /* Optional: changes color on hover */
 }
 
-  <div class="contact-info">
-    Contact us!
-  </div>
-</div>
-
+.phone-number {
+    color: #ffffff; /* Or whatever color you want */
+}
 
 .hero-text {
     text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
