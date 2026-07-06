@@ -3,6 +3,20 @@
 A short description of what this project does.
 Example: This is a personal portfolio website built to showcase my projects, skills, and contact information.
 
+## 👨‍💻 About This Project
+
+This project was created to practice and improve front-end development skills.  
+It focuses on building a clean, responsive, and user-friendly web experience.
+
+## 💡 Skills Demonstrated
+
+- Building responsive layouts
+- Writing clean HTML structure
+- Styling pages with CSS
+- Adding interactive features with JavaScript
+- Organizing project files
+- Using Git and GitHub for version control
+
 ## 🚀 Features
 
 * Clean and responsive design
@@ -19,7 +33,7 @@ Example: This is a personal portfolio website built to showcase my projects, ski
 
 ## 📸 Screenshots
 
-![Homepage Screenshot](home.png)
+[Homepage Screenshot](home.png)
 
 ## 🌍 Live Demo
 
@@ -44,7 +58,6 @@ Open `index.html` in your browser.
 ## 📌 Future Improvements
 
 ## 📂 Project Structure
-
 
 hamdi-slimi/
 │
