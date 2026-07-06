@@ -75,8 +75,6 @@ hamdi-slimi/
 
 ## 👤 Author
 
-## 👤 Author
-
 ### Hamdi Slimi
 
 Full stack Developer passionate about creating clean, responsive, and user-friendly websites.
