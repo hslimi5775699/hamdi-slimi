@@ -27,9 +27,15 @@ It focuses on building a clean, responsive, and user-friendly web experience.
 
 ## 🛠️ Technologies Used
 
-* HTML
-* CSS
-* JavaScript
+## 🛠️ Technologies Used
+
+[HTML5](https://img.shields.io/badge/HTML5-HTML-blue)
+
+[CSS3](https://img.shields.io/badge/CSS3-CSS-blue)
+
+[JavaScript](https://img.shields.io/badge/JavaScript-JS-blue)
+
+[GitHub](https://img.shields.io/badge/GitHub-Version_Control-blue)
 
 ## 📸 Screenshots
 
