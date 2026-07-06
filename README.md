@@ -19,11 +19,7 @@ Example: This is a personal portfolio website built to showcase my projects, ski
 
 ## 📸 Screenshots
 
-Add screenshots here later.
-
-```md
-![Homepage Screenshot](assets/screenshots/home.png)
-```
+![Homepage Screenshot](home.png)
 
 ## 🌍 Live Demo
 
