@@ -75,6 +75,18 @@ hamdi-slimi/
 
 ## 👤 Author
 
-**Hamdi Slimi**
+## 👤 Author
+
+### Hamdi Slimi
+
+Full stack Developer passionate about creating clean, responsive, and user-friendly websites.
+
+- GitHub: https://github.com/hslimi5775699
+- Portfolio: https://hslimi5775699.github.io/hamdi-slimi/
+- LinkedIn: https://www.linkedin.com/in/hamdi-slimi-7a847b36a/?skipRedirect=true
+
+## 🤝 Connect With Me
+
+Feel free to connect, share feedback, or suggest improvements.
 
 GitHub: [hslimi5775699](https://github.com/hslimi5775699)
