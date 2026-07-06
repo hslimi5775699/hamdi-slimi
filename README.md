@@ -1,8 +1,5 @@
 # Hamdi Slimi Project
 
-A short description of what this project does.
-Example: This is a personal portfolio website built to showcase my projects, skills, and contact information.
-
 ## 👨‍💻 About This Project
 
 This project was created to practice and improve front-end development skills.  
@@ -24,8 +21,6 @@ It focuses on building a clean, responsive, and user-friendly web experience.
 * Project showcase section
 * Contact information
 * Mobile-friendly layout
-
-## 🛠️ Technologies Used
 
 ## 🛠️ Technologies Used
 
