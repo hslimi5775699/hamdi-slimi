@@ -43,11 +43,16 @@ Open `index.html` in your browser.
 
 ## 📌 Future Improvements
 
-* Add more projects
-* Improve animations
-* Add dark mode
-* Add contact form
-* Improve accessibility
+## 📂 Project Structure
+
+
+hamdi-slimi/
+│
+├── index.html # Main page
+├── style.css # Website styling
+├── script.js # JavaScript functionality
+├── home.png # Project screenshot
+└── README.md # Project documentation
 
 ## 👤 Author
 
