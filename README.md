@@ -23,7 +23,7 @@ Example: This is a personal portfolio website built to showcase my projects, ski
 
 ## 🌍 Live Demo
 
-Add your live website link here later.
+https://hslimi5775699.github.io/hamdi-slimi/
 
 ## ⚙️ How to Run Locally
 
